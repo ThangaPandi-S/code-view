@@ -20,7 +20,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "InMeet",
+  title: "CodeSync",
   description: "personalized mock interview platform",
 };
 
